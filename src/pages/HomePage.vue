@@ -25,7 +25,7 @@
     <v-ons-list-title>Vue.js Ecosystem</v-ons-list-title>
     <v-ons-row>
       <v-ons-col>
-        <v-ons-card @click="goTo('http://router.vuejs.org/')">vue-router</v-ons-card>
+        <v-ons-card @click="goTo('http://router.vuejs.org/')">vue-router asdf</v-ons-card>
       </v-ons-col>
       <v-ons-col>
         <v-ons-card @click="goTo('http://vuex.vuejs.org/')">vuex</v-ons-card>
